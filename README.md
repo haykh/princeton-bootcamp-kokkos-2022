@@ -1,5 +1,15 @@
 # About Kokkos @ Princeton Bootcamp
 
+Slides for the talk are available in pdf and fig formats.
+
+## Resources
+
+* [Kokkos github](https://github.com/kokkos/kokkos)
+* [Kokkos wiki](https://kokkos.github.io/kokkos-core-wiki/)
+* [Kokkos lecture videos](https://www.youtube.com/watch?v=rUIcWtFU5qM)
+* [Kokkos tutorials](https://github.com/kokkos/kokkos-tutorials)
+* [Kokkos team slack](https://kokkosteam.slack.com/)
+
 ## Compiling and running the tests
 
 > _Disclaimer_: some of the tests contain lines of code that are very far from following the best practices. They are there to test the compilation process and the runtime, not to teach you how to write good code. 
